@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comments on MUSSTDAFA ANSSARI</title>
+    <link>http://example.org/tags/comments/</link>
+    <description>Recent content in comments on MUSSTDAFA ANSSARI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 MU</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/comments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partials</title>
+      <link>http://example.org/docs/partials/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/partials/</guid>
+      <description>Analytics # Congo provides built-in support for Fathom Analytics and Google Analytics.</description>
+    </item>
+    
+  </channel>
+</rss>

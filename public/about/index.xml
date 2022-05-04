@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Samples on MUSSTDAFA ANSSARI</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in Content Samples on MUSSTDAFA ANSSARI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 MU</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>http://example.org/about/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/features/</guid>
+      <description>Clean UI with small resources.</description>
+    </item>
+    
+    <item>
+      <title>Timeline</title>
+      <link>http://example.org/about/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/timeline/</guid>
+      <description>2022/04/01 - v1.</description>
+    </item>
+    
+    <item>
+      <title>Acknowledgement</title>
+      <link>http://example.org/about/acknowledgement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/acknowledgement/</guid>
+      <description> PrismJS/prism krisk/Fuse mathjax/MathJax kingdido999/zooming feathericons/feather  </description>
+    </item>
+    
+    <item>
+      <title>Users</title>
+      <link>http://example.org/about/users/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/users/</guid>
+      <description>Real websites that are built with Congo.</description>
+    </item>
+    
+  </channel>
+</rss>

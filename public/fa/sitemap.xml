@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://example.org/fa/list/femoji/</loc>
+            <lastmod>2022-03-05T00:00:00+03:30</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/fa/</loc>
+            <lastmod>2022-03-05T00:00:00+03:30</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://example.org/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fa"
+              href="http://example.org/fa/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/fa/list/</loc>
+            <lastmod>2022-03-05T00:00:00+03:30</lastmod>
+          </url>
+    
+  
+    
+  
+</urlset>
