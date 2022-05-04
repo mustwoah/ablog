@@ -1,0 +1,26 @@
+languageCode = "fa-ir"
+languageName = "Farsi (Iran)"
+displayName = "[فا]"
+isoCode = "fa-ir"
+weight = 2
+rtl = true
+
+title = "مصطفی انصاریم!"
+logo = "img/logof.png"
+description = "ابرانسان قدرتمند!"
+copyright = "&copy; 2022 مصطفی انصاری"
+
+dateFormat = "January 2006"
+timeZone ="Asia/Tehran"
+
+[author]
+  name = "مصطفی انصاری"
+  image = "img/author.png"
+  headline = "انسان غیر عادی!"
+  bio = "این نمونه مشخصات نویسنده میباشد. :dog:"
+  links = [
+    { twitter = "https://twitter.com/" },
+    { facebook = "https://facebook.com/" },
+    { linkedin = "https://linkedin.com/" },
+    { youtube = "https://youtube.com/" },
+  ]

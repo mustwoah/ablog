@@ -1,0 +1,21 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+theme = "mu"
+defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    contentDir = 'content/english'
+    weight = 1
+  [languages.fa]
+    languagedirection = 'rtl'
+    contentDir = 'content/farsi'
+    weight = 2
+
+enableRobotsTXT = true
+paginate = 3
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

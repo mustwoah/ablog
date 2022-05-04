@@ -1,0 +1,25 @@
+languageCode = "en-us"
+languageName = "English (USA)"
+displayName = "[En]"
+isoCode = "en-US"
+weight = 1
+rtl = false
+
+title = "MUSSTDAFA ANSSARI"
+logo = "img/logo.png"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+copyright = "&copy; 2022 MU"
+
+dateFormat = "January 2006"
+
+[author]
+  name = "Musstdafa Anssari"
+  image = "img/author.png"
+  headline = "Not an ordinary human!"
+  bio = "This is an example author bio. :dog:"
+  links = [
+    { twitter = "https://twitter.com/" },
+    { facebook = "https://facebook.com/" },
+    { linkedin = "https://linkedin.com/" },
+    { youtube = "https://youtube.com/" },
+  ]
